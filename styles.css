@@ -1,0 +1,24 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px;
+  border: 1px solid black;
+  width: 370px;
+  height: 430px;
+}
+h1{
+  color: #375e97;
+}
+.first-line{
+  border-bottom: 1px solid black;
+}
+.job-title{
+  color: grey;
+  font-weight: bold;
+}
+a:visited, a:link{
+  color: red;
+}
+a:hover{
+  text-decoration: none;
+}
+
